@@ -23,7 +23,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='mymojo_tableau_ready' name='textscan.1o97srv08t5gq1153wmdj14vclng'>
-            <connection class='textscan' directory='/Users/vishnu/Desktop/MojoHealth' filename='mymojo_tableau_ready.csv' password='' server='' />
+            <connection class='textscan' directory='' filename='mymojo_tableau_ready.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.1o97srv08t5gq1153wmdj14vclng' name='mymojo_tableau_ready.csv' table='[mymojo_tableau_ready#csv]' type='table'>
